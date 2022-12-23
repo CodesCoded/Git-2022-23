@@ -11,9 +11,9 @@ Das geht ganz schnell und einfach:
 
 &rarr; Zuerst installieren wir [LaTeX](tug.org/texlive/)<br />
 &rarr; Dann nutzen wir PDFLaTeX zum Erstellen des PDF 
-&emsp;&ensp;**pdflatex ./task.tex** (Das muessen wir mehrfach machen, &emsp;&ensp;damit die PDF auch fertig wird)
+&ensp;**pdflatex ./task.tex** (Das muessen wir mehrfach machen,&ensp;damit die PDF auch fertig wird)
 <br />&rarr; Alternativ koennen wir auch einfach LaTeX Mk nutzen 
-	&emsp;&ensp;**latexmk -pdf ./task.tex**
+	**latexmk -pdf ./task.tex**
 
 
 
